@@ -1,0 +1,14 @@
+.expenses {
+    padding: 1rem;
+    /* border-radius: 10px; */
+    box-shadow: rgb(255, 255, 255);
+    background-color: rgb(31, 31, 31);
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+  }
+.message{
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+}
